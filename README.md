@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://tenor.com/id/view/black-hole-gif-3515396311910810048"  />
 </div>
 
 ###
@@ -52,9 +52,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/auraauvarose/count.svg?"  />
-</div>
 
 ###
 
