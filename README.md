@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://tenor.com/id/view/black-hole-gif-3515396311910810048"  />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjcyeWdhaHJxOThwa2FtY2FkOG83c3M2bXQwNm14NXlibmk3dTRkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkKzNQjwPy7GvxZbfe/giphy.gif  "  />
 </div>
 
 ###
