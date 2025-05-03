@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://www.icegif.com/wp-content/uploads/2023/02/icegif-504.gif"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
@@ -44,6 +44,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auraauvarose/auraauvarose/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auraauvarose/auraauvarose/output/pacman-contribution-graph.svg">
@@ -52,6 +54,11 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/auraauvarose/count.svg?"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/auraauvarose/auraauvarose/output/snake.svg" alt="Snake animation" />
 
