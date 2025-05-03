@@ -1,3 +1,5 @@
+<br clear="both">
+
 <img align="right" height="300" src="https://media.giphy.com/media/uV4OKp4Dt2Zry/giphy.gif"  />
 
 ###
@@ -49,16 +51,6 @@
 ###
 
 <img src="https://raw.githubusercontent.com/auraauvarose/auraauvarose/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auraauvarose/auraauvarose/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auraauvarose/auraauvarose/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/auraauvarose/auraauvarose/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
