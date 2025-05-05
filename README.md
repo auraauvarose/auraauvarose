@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🎯 Goals: .Menjadi seorang yang bermanfaat<br>🎲 Fun fact: Aku umur 18th</p>
+<p align="left">🎯 Goals: .Menjadi seorang yang bermanfaat<br>🎲 How: Apanya?</p>
 
 ###
 
