@@ -1,4 +1,4 @@
-<img height="100" src="githubheader.png">
+<img height="300" src="githubheader.png">
 
 <br clear="both">
 
