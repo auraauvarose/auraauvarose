@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+<img height="100" src="githubheader.png">
 
 <br clear="both">
 
