@@ -58,7 +58,22 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hihi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hihi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hih) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:auraauvaroseendica@gmail.com)
 
+###
+
+<img src="https://raw.githubusercontent.com/auraauvarose/auraauvarose/output/snake.svg" alt="Snake animation" />
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nwpobtl3fvuuczpmfqptzjayhy&width={width})
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
