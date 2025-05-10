@@ -67,13 +67,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nwpobtl3fvuuczpmfqptzjayhy&width={width})
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
