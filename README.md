@@ -73,16 +73,10 @@
 <img src="dikoding_python_dasar.jpeg" width="400" align="left"/>
 <img src="dikoding_finansial.jpeg" width="400" align="right"/>
 
-<table>
-  <tr>
-    <td><img src="dikoding_python_dasar.jpeg" width="300"/></td>
-    <td><img src="dikoding_finansial.jpeg" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="pemahaman_dasar_security.jpeg" width="300"/></td>
-    <td><img src="sertifikat_baru.jpeg" width="300"/></td>
-  </tr>
-</table>
+###
+
+<img src="pemahaman_dasar_security.jpeg" width="300" align="left"/>
+<img src="sertifikat_baru.jpeg" width="300" align="right"/>
 
 
 ### ✍️ Random Dev Quote
