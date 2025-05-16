@@ -75,8 +75,12 @@
 
 ###
 
-<img src="pemahaman_dasar_security.jpeg" width="300" align="left"/>
-<img src="sertifikat_baru.jpeg" width="300" align="right"/>
+<img width="120">
+
+###
+
+<img src="pemahaman_dasar_security.jpeg" width="400" align="left"/>
+<img src="sertifikat_baru.jpeg" width="400" align="right"/>
 
 
 ### ✍️ Random Dev Quote
