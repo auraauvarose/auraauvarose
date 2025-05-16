@@ -71,7 +71,7 @@
 
 ## 📰 Sertifikasi 
 
-<img src="dikoding">
+<img src="dikoding_python_dasar.jpeg" height="200">
 
 
 ### ✍️ Random Dev Quote
