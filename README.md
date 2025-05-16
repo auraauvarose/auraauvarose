@@ -82,6 +82,7 @@
 <img src="pemahaman_dasar_security.jpeg" width="400" align="left"/>
 <img src="sertifikat_baru.jpeg" width="400" align="right"/>
 
+<img width="120">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
