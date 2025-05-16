@@ -69,12 +69,18 @@
 
 ###
 
-## 📰 Sertifikasi 
+<h2>📰 Sertifikasi</h2>
 
-<img src="dikoding_python_dasar.jpeg" height="200" align="left" style="margin-right: 10px; margin-bottom: 10px;">
-<img src="dikoding_finansial.jpeg" height="200" align="right" style="margin-right: 10px; margin-bottom: 10px;">
-<br clear="both"/>
-<img src="pemahaman_dasar_security.jpeg" height="200" align="left" style="margin-left: 10px; margin-bottom: 10px;">
+<table>
+  <tr>
+    <td><img src="dikoding_python_dasar.jpeg" width="300"/></td>
+    <td><img src="dikoding_finansial.jpeg" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="pemahaman_dasar_security.jpeg" width="300"/></td>
+    <td><img src="sertifikat_baru.jpeg" width="300"/></td>
+  </tr>
+</table>
 
 
 ### ✍️ Random Dev Quote
