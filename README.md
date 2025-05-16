@@ -80,7 +80,7 @@
 ###
 
 <img src="pemahaman_dasar_security.jpeg" width="400" align="left"/>
-<img src="sertifikat_baru.jpeg" width="400" align="right"/>
+<img src="pemahaman_dasar_security.jpeg" width="400" align="right"/>
 
 <img width="120">
 
