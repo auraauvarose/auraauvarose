@@ -70,11 +70,11 @@
 ###
 
 <h2>📰 Sertifikasi</h2>
-<img src="dikoding_python_dasar.jpeg" width="300" align="left"/>
+<img src="dikoding_python_dasar.jpeg" width="400" align="left"/>
 
 ###
 
-<img src="dikoding_finansial.jpeg" width="300" align="right"/>
+<img src="dikoding_finansial.jpeg" width="400" align="right"/>
 
 <table>
   <tr>
