@@ -75,7 +75,7 @@
 
 ###
 
-<img width="120" height="40">
+<h1 width="120" height="40"></h1>
 
 ###
 
