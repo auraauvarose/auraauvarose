@@ -74,8 +74,7 @@
 <img src="dikoding_finansial.jpeg" width="400" align="right"/>
 
 ###
-
-<h1 width="120" height="40"></h1>
+<br width="120" height="40">
 
 ###
 
