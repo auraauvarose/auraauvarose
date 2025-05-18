@@ -68,20 +68,28 @@
 <img src="https://raw.githubusercontent.com/auraauvarose/auraauvarose/output/snake.svg" alt="Snake animation" />
 
 ###
+<h2>📜 Sertifikasi</h2>
 
-<h2>📰 Sertifikasi</h2>
-<img src="dikoding_python_dasar.jpeg" width="400" align="left"/>
-<img src="dikoding_finansial.jpeg" width="400" align="right"/>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
-###
-<img width="120" height=" 3"/>
+  <div>
+    <img src="dikoding_python_dasar.jpeg" alt="Sertifikat Python Dasar" width="100%">
+  </div>
 
-###
+  <div>
+    <img src="dikoding_finansial.jpeg" alt="Sertifikat Financial Literacy" width="100%">
+  </div>
 
-<img src="pemahaman_dasar_security.jpeg" width="400" align="left"/>
-<img src="pemahaman_dasar_security.jpeg" width="400" align="right"/>
+  <div>
+    <img src="pemahaman_dasar_security.jpeg" alt="Sertifikat Cyber Security 1" width="100%">
+  </div>
 
-<img width="120">
+  <div>
+    <img src="pemahaman_dasar_security2.jpeg" alt="Sertifikat Cyber Security 2" width="100%">
+  </div>
+
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
