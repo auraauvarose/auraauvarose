@@ -67,21 +67,6 @@
 
 <img src="https://raw.githubusercontent.com/auraauvarose/auraauvarose/output/snake.svg" alt="Snake animation" />
 
-###
-
-<h2>📰 Sertifikasi</h2>
-<img src="dikoding_python_dasar.jpeg" width="400" align="left"/>
-<img src="dikoding_finansial.jpeg" width="400" align="right"/>
-
-###
-<img width="120" height="1"/>
-
-###
-
-<img src="pemahaman_dasar_security.jpeg" width="400" align="left"/>
-<img src="pemahaman_dasar_security.jpeg" width="400" align="right"/>
-
-<img width="120">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
