@@ -8,11 +8,6 @@
 
 ###
 
-<h2 align="left">Aku sedang mendalami dunia programing dari dasar, ini adalah github saya.</h2>
-
-###
-
-
 <img align="left" src="https://profile-counter.glitch.me/auraauvarose/count.svg?"  />
 
 ###
