@@ -1,4 +1,4 @@
-<br clear="both">
+
 
 <img align="right" height="300" src="https://media.giphy.com/media/uV4OKp4Dt2Zry/giphy.gif"  />
 
