@@ -10,7 +10,6 @@
     font-weight: 300; 
     letter-spacing: 0.08em; 
     margin-bottom: 0.5rem;">
-    Wake up • eat • sleep
   </p>
 </div>
 
@@ -19,11 +18,8 @@
 
 <img align="right" height="240" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmpuNGx3OWpnejdhaXN2eXF6cmd2NTdzd3JmZzZ4bTJ2dTZibXgyeSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/82V3vuJpj6jRlVeZjU/giphy.gif" alt="Coding" />
 
+<img align="right" height="240" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNhM3czN3FqenZ4MHAxM3plaXlmenV3YnQwZ3lybDNwbXMzZW1odyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UpK6KdTJGG9eB4N2OF/giphy.gif" alt="Coding" />
 
-
-<div align="center" style="margin: 50px 0;">
-  <img src="https://raw.githubusercontent.com/auraauvarose/auraauvarose/output/snake.svg" alt="Contribution Snake" width="100%" />
-</div>
 
 
 
