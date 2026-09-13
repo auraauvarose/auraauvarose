@@ -14,13 +14,11 @@
 </div>
 
 
-<img align="right" height="240" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmpuNGx3OWpnejdhaXN2eXF6cmd2NTdzd3JmZzZ4bTJ2dTZibXgyeSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/Iblji4Y9OYEqaAgqOL/giphy.gif" alt="Coding" />
+<img align="right" height="340" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmpuNGx3OWpnejdhaXN2eXF6cmd2NTdzd3JmZzZ4bTJ2dTZibXgyeSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/Iblji4Y9OYEqaAgqOL/giphy.gif" alt="Coding" />
 
-<img align="right" height="240" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmpuNGx3OWpnejdhaXN2eXF6cmd2NTdzd3JmZzZ4bTJ2dTZibXgyeSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/82V3vuJpj6jRlVeZjU/giphy.gif" alt="Coding" />
+<img align="right" height="340" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmpuNGx3OWpnejdhaXN2eXF6cmd2NTdzd3JmZzZ4bTJ2dTZibXgyeSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/82V3vuJpj6jRlVeZjU/giphy.gif" alt="Coding" />
 
-<img align="right" height="240" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNhM3czN3FqenZ4MHAxM3plaXlmenV3YnQwZ3lybDNwbXMzZW1odyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UpK6KdTJGG9eB4N2OF/giphy.gif" alt="Coding" />
-
-<img align="right" height="240" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dvZGZtYmM2cHozYmg1a3U3cmprb21laXViMW00MGpqdnZ2ZGY5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y0zKkXjqIgMuhCXVN9/giphy.gif" alt="Coding" />
+<img align="right" height="340" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNhM3czN3FqenZ4MHAxM3plaXlmenV3YnQwZ3lybDNwbXMzZW1odyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UpK6KdTJGG9eB4N2OF/giphy.gif" alt="Coding" />
 
 
 
