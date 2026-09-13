@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="250" src="81147216_p0_master1200.jpg" alt="Header" 
+  <img width="100%" height="250" src="LH2yKVV-dusky.png" alt="Header" 
     style="object-fit: cover; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.1); margin-bottom: 0;" />
   <br>
   <br>
